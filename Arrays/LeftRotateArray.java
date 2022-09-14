@@ -25,7 +25,6 @@ class LeftRotateArray
        {
        		System.out.print(arr[i]+" ");
        }
-
        System.out.println();
 
        lRotateOne(arr, n);
